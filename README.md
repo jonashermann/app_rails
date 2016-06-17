@@ -1,1 +1,1 @@
-# app_rails
+# hello_app_mhartl
